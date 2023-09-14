@@ -22,7 +22,7 @@ setup(
     package_dir={'pandora_cloud': 'src/pandora_cloud'},
     include_package_data=True,
     project_urls={
-        'Source': 'https://github.com/zhile-io/pandora-cloud',
+        'Source': 'https://github.com/hainc/pandora-cloud',
         'Tracker': 'https://github.com/zhile-io/pandora-cloud/issues',
     },
     classifiers=[
